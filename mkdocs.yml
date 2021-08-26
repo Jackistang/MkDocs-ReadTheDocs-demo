@@ -1,10 +1,12 @@
 # 站点名
-site_name: MkLorum
+site_name: Template
 
 # 主题
 theme: readthedocs
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Demo: demo.md
+
+markdown_extensions:
+  - toc:
+      permalink: "#"

@@ -1,1 +1,1 @@
-# MkDocs-ReadTheDocs-demo
+MkDocs + Read the Docs tempalte project.
