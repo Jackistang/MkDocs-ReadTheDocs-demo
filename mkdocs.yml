@@ -1,2 +1,10 @@
-site_name: My Docs
+# 站点名
+site_name: MkLorum
+
+# 主题
 theme: readthedocs
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Demo: demo.md
